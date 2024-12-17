@@ -1,4 +1,4 @@
-The subsequent blog was developed as part of a project within the University of Toronto's Cybersecurity Bootcamp Program. You can find the Topology-Visualization [here](https://github.com/team4kira/Topology/blob/main/README.md).
+The subsequent blog was developed as part of a project within the University of Toronto's Cybersecurity Bootcamp Program. Attached to the repository are the HTML and CSS files used to create said Web Application. You can find the Topology-Visualization [here](https://github.com/team4kira/Topology/blob/main/README.md).
 
 Work Citation for HTML Code: 
 
